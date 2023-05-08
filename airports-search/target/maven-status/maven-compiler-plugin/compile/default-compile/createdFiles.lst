@@ -1,0 +1,9 @@
+org\example\Calculator.class
+org\example\MyException\ErrorTipIfAndTipcolumnExctption.class
+org\example\obrabotka.class
+org\example\Main.class
+org\example\MyException\FormatFiltraException.class
+org\example\MyException\ErrorFilterNotIfExceprion.class
+org\example\MyException\ErrorColumn.class
+org\example\MyException\ErrorPoiskStolb.class
+org\example\MyException\ErrorPraamPoisk.class
